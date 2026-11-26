@@ -35,3 +35,4 @@ This is a student project, not a production system.
 - Check passwords and staff access on the server
 - Send one-time codes through an SMS provider
 - Replace the on-screen code with real delivery# college-event-registration-event
+https://v.gd/1IjOAO
